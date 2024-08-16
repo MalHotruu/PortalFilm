@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: Portalfilm
+Version: 0.1.0
+Summary: Default template for PDM package
+Author-email: Mayuri <martin.hainaut@ifosup.wavre.be>
+License: MIT
+Description-Content-Type: text/markdown
+Requires-Dist: ttkbootstrap>=1.10.1
+
+# Portalfilm
+
+## Ce qui pourrais améliorer
+1. Ajouter une façons de visualiser les genre, les réalisateurs, les acteurs et les boites de production
+2. Faire des fonctions pour la gestion des "insert", "delete" des genre, realisateurs, acteur et boite de production
+3. Trouver une solution pour faire une vertical bar sur la fênetre
+4. Ajouter un moyen d'ajout/suppresion de genre, realisateur, acteur, etc 
+5. ......
+

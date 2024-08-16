@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/DatabaseHandler.py
+src/main.py
+src/Portalfilm.egg-info/PKG-INFO
+src/Portalfilm.egg-info/SOURCES.txt
+src/Portalfilm.egg-info/dependency_links.txt
+src/Portalfilm.egg-info/requires.txt
+src/Portalfilm.egg-info/top_level.txt
